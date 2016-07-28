@@ -1,0 +1,11 @@
+{
+  "name": "WhatsappIonic",
+  "app_id": "1f3719fa",
+  "browsers": [
+    {
+      "platform": "android",
+      "browser": "crosswalk",
+      "version": "12.41.296.5"
+    }
+  ]
+}

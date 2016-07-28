@@ -1,0 +1,3 @@
+1) display message on previous chat screen when no any messages found.
+2) in ios contact number and previous chats not display after app comes to background to forground.(good working in android).
+3) set loader to center on screen (contact no page )
